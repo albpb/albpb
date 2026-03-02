@@ -25,7 +25,7 @@ Spanish (Native) · Catalan (Native) · English (Advanced) · Japanese (Difficul
 **Languages**
 
 Java · JavaScript · C++ · C# (.NET) · Python
-SQL · MongoDB · MIPS Assembly (at uni)
+SQL · MongoDB · MIPS Assembly (at uni) ·
 React · Unity
 
 **Tools**
@@ -39,18 +39,6 @@ Premiere · Photoshop · Animate · Aseprite
 
 ---
 
-## Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=albpb&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albpb&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p>
-  <img height="160" src="https://streak-stats.demolab.com?user=albpb&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 ## Focus
 
