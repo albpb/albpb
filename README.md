@@ -1,4 +1,4 @@
-# [Albert Pineda]
+# Albert Pineda
 
 Computer Science Student @ UPC — Facultat d'Informàtica de Barcelona
 Interested in computing, software engineering and game development.
@@ -42,7 +42,7 @@ Premiere · Photoshop · Animate · Aseprite
 
 ## Focus
 
-Software Engineering · Game Development · Continuous Learning
+Computer Science · Game Development · Continuous learning about things I love
 
 ---
 
