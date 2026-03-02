@@ -30,7 +30,7 @@ React · Unity
 
 **Tools**
 
-GitHub · Azure · VS Code · Visual Studio · Ubuntu
+GitHub · Azure · VS Code · Visual Studio · Ubuntu ·
 Obsidian · Trello
 
 **Creative**
