@@ -16,7 +16,7 @@ Interested in computing, software engineering and game development.
 
 ## Languages
 
-Spanish (Native) · Catalan (Native) · English (Advanced) · Japanese (Difficult, but trying to learn!)
+Spanish (Native) · Catalan (Native) · English (Advanced)
 
 ---
 
